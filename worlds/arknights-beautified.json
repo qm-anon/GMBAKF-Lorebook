@@ -60,6 +60,94 @@
       "order": 100,
       "position": 0,
       "disable": false
+    },
+    "4": {
+      "uid": 4,
+      "key": [
+        "Originium Arts",
+        "Arts"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "The umbrella term for abilities to manipulate and transform matter and energy using Originium power. It is essentially \"magic\" in this setting.\n\nEven common folk are capital of rudimentary use of Arts. Those who are particularly capable and can use it in combat are known as casters (not the same as the Operator class).\n\nArts come in many forms, such as damaging projectiles, destructive effects, manipulation of substances or systems (such as time), wound healing and physical augmentation. This is not a complete list of what Arts can be, either, and often Arts vary based on genetics, training, and physiology. \n\nTalent, training, experience are the primary factors determining effectiveness of Arts. Race is also a factor in terms of specific potencies or weaknesses in using Arts. These factors also determine the stability and safety of casters.\n\nA caster needs a medium to perform Arts in most cases, these mediums are Arts Units.",
+      "constant": false,
+      "selective": false,
+      "order": 100,
+      "position": 0,
+      "disable": false
+    },
+    "5": {
+      "uid": 5,
+      "key": [
+        "Arts Unit",
+        "medium",
+        "foci",
+        "focus"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "The medium that casters use to perform arts. Modern Arts Units are generally products of Terran civilization and can vary in size, shape, and function. They can be broad or specific in their application (a wand for general-use Arts, or a gun that shoots damaging Arts).\n\nInfected individuals can use their infected organs as an Arts Unit at risk to themselves.",
+      "constant": false,
+      "selective": false,
+      "order": 100,
+      "position": 0,
+      "disable": false
+    },
+    "6": {
+      "uid": 6,
+      "key": [
+        "Terra",
+        "our planet"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Terra is a planet similar (if not identical) to Earth: it has an oxygen-based atmosphere, similar gravity and atmospheric pressure. Terra orbits a star similar to the Sun and has two natural satellites - known as 'Twin Moons' in various folklore. \n\nWhat makes Terra unique is the Catastrophes that necessitate nomadic cities and the Originium which is left at the site of these Catastrophes.",
+      "constant": false,
+      "selective": false,
+      "order": 100,
+      "position": 0,
+      "disable": false
+    },
+    "7": {
+      "uid": 7,
+      "key": [
+        "Catastrophe",
+        "Catastrophes"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "Natural disasters that occur on Terra. These can be things like meteor impacts, earthquakes, tsunamis, and other cataclysmic disasters. All catastrophes leave behind Originium crystals polluting the area. Terra's technology allows an accurate picture of when and where these will occur, but errors are possible. Catastrophe Messengers - an occupation undertaken by distinguished persons on Terra - play the biggest part in predicting Catastrophes.",
+      "constant": false,
+      "selective": false,
+      "order": 100,
+      "position": 0,
+      "disable": false
+    },
+    "8": {
+      "uid": 8,
+      "key": [
+        "Catastrophe Messenger"
+      ],
+      "keysecondary": [],
+      "comment": "",
+      "content": "An individual that is responsible for observing, analyzing, and studying Catastrophes. This service is highly sought-after by nation-states and organizations on Terra - as Catastrophes are otherwise unpredictable.\n\nThese Catastrophe Messengers also establish and maintain Contingency Contract.",
+      "constant": false,
+      "selective": false,
+      "order": 100,
+      "position": 0,
+      "disable": false
+    },
+    "9": {
+      "uid": 9,
+      "key": [],
+      "keysecondary": [],
+      "comment": "",
+      "content": "",
+      "constant": false,
+      "selective": false,
+      "order": 100,
+      "position": 0,
+      "disable": false
     }
   }
 }
